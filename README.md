@@ -1,1 +1,1 @@
-# Haskell_Project
+# Logic Formula in haskell
